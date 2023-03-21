@@ -6,7 +6,12 @@ Technology used in the project: **HTML, CSS, Javascript**.
 
 **Live demo:** https://video-player-custom-controls.netlify.app/
 
+Desktop view:
+
 ![My Image](https://github.com/BogdanaPlazinic/National-Geographic-video-player-custom-controls/blob/master/md-img/National%20Geographic%20desktop.gif)
+
+Mobile view:
+
 ![My Image](https://github.com/BogdanaPlazinic/National-Geographic-video-player-custom-controls/blob/master/md-img/National%20Geographic%20mobile.gif)
 
 
