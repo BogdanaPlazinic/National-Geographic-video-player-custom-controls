@@ -46,7 +46,6 @@ function skip() {
 
 function rangeUpdate() {
     playerVideo[this.name] = this.value;
-    console.log(this.value);
 }
 
 function progressTime() {
@@ -57,7 +56,6 @@ function progressTime() {
 function progressResize(e) {
     const time = (e.offsetX / progress.offsetWidth) * playerVideo.duration;
     playerVideo.currentTime = time;
-    console.log(e);
 }
 
 function fullScreen() {
